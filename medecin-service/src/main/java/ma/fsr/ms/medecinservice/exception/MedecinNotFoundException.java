@@ -1,0 +1,8 @@
+package ma.fsr.ms.medecinservice.exception;
+
+public class MedecinNotFoundException extends RuntimeException {
+
+    public MedecinNotFoundException(Long id) {
+        super("Médecin introuvable : id = " + id + ".");
+    }
+}
