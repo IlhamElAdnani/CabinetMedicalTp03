@@ -129,12 +129,16 @@ API :
 ## Test :
 ## 1.Patient :
 <img width="900" height="900" alt="patient" src="https://github.com/user-attachments/assets/ca869857-3346-4acc-9417-23c156ad09bc" />
+
 ## 2.Medecin :
 <img width="900" height="900" alt="Medecin" src="https://github.com/user-attachments/assets/85fd99b9-87eb-4456-a5cc-154e87665a99" />
+
 ## 3.RendezVous :
 <img width="900" height="900" alt="RV" src="https://github.com/user-attachments/assets/b3f1e3f7-fbeb-4f77-8cf8-659009bad8b3" />
+
 ## 4.Consultationm :
 <img width="1536" height="900" alt="Consultation" src="https://github.com/user-attachments/assets/1d34f5a9-e75c-4dca-b6e3-559e3738c137" />
+
 ## 5.Dossier :
 <img width="1000" height="900" alt="Dossier" src="https://github.com/user-attachments/assets/758ea6bb-ba66-46a6-982b-449982561b4d" />
 
